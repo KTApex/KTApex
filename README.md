@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kusal Thamoj (aka KTApex)</h1>
+<h1 align="center">Hi 👋, I'm Kusal Thamoj (KTApex)</h1>
 <h3 align="center">Software Engineer | BSc. IT & Cyber Security | Automation & Mobile Dev</h3>
 
 <p align="center">
